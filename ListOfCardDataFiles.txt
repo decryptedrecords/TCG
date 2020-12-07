@@ -1,0 +1,9 @@
+<listofcarddatafiles>
+
+<filetoinclude>allcards0.txt</filetoinclude>
+<filetoinclude>allcards1.txt</filetoinclude>
+<filetoinclude>allcards2.txt</filetoinclude>
+<filetoinclude>allcards3.txt</filetoinclude>
+<filetoinclude>allcards4.txt</filetoinclude>
+
+</listofcarddatafiles>

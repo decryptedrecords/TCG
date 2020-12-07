@@ -1,0 +1,3 @@
+RECENTDECK0:Sacrifice.dek
+RECENTDECK1:Equipment.dek
+RECENTDECK2:Exodia.dek
